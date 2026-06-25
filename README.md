@@ -1,0 +1,1 @@
+AI-powered News Chatbot built using FastAPI, NewsAPI, and OpenRouter. The application fetches the latest news articles based on categories or custom keywords and generates concise AI-based summaries for each article. It provides a simple REST API with support for category mapping, keyword search, and frontend integration using CORS.
